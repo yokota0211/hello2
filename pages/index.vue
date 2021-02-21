@@ -9,7 +9,7 @@
 export default {
   data: function(){
     return{
-      message: 'Hello!'
+      message: 'Hell222o!'
     }
   }
 }
